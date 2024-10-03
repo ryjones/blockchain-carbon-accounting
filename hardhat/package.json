@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@eth-optimism/plugins": "1.0.0-alpha.3",
-    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/contracts": "^4.9.2",
     "axios": "^0.27.2"
   }
 }
